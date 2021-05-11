@@ -1,1 +1,1 @@
-# pratice-html-css01
+# pratice-html-css-01basic
